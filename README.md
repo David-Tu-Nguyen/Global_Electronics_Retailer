@@ -2,7 +2,7 @@
 Sales data for a fictitious global electronics retailer, including tables containing information about transactions, products, customers, stores and currency exchange rates.
 
 # Main objective
-Analyze the sales by individual store of a global electronics retailer, and make an interactive sales dashboard.
+Analyze the sales by individual store of a global electronics retailer.
 The questions we will answer through this analysis are the following :
   - Analyze the total profit each month of each year based on unit USD; Note: Profit of one products = unit_price - unit_cost
   - Write a SQL query to see customer demographics meaning with format table Age_Group, Gender, Country, State, Count_Customer With Age_Group is 0-17, 18-25, 26,35, 36-45, 46-55, 56+
